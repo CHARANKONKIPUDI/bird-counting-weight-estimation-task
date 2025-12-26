@@ -1,0 +1,47 @@
+# ----------------------------
+# Virtual Environment
+# ----------------------------
+venv/
+.env/
+
+# ----------------------------
+# Python cache / compiled
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------------
+# Jupyter / IPython
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# OS / Editor files
+# ----------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+
+# ----------------------------
+# Model / large files (optional)
+# ----------------------------
+*.pt
+
+# ----------------------------
+# Data & outputs (optional)
+# Uncomment if you don't want to push videos
+# ----------------------------
+# data/
+# outputs/
+
+
+# Ignore videos
+data/*.mp4
+outputs/*.mp4

@@ -1,0 +1,3708 @@
+{
+  "processed_seconds": 925,
+  "average_visible_birds": 134.73,
+  "average_weight_grams": 1397.18,
+  "bird_counts_over_time": [
+    {
+      "time_sec": 0,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 1,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 2,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 3,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 4,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 5,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 6,
+      "visible_birds": 70
+    },
+    {
+      "time_sec": 7,
+      "visible_birds": 87
+    },
+    {
+      "time_sec": 8,
+      "visible_birds": 91
+    },
+    {
+      "time_sec": 9,
+      "visible_birds": 90
+    },
+    {
+      "time_sec": 10,
+      "visible_birds": 87
+    },
+    {
+      "time_sec": 11,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 12,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 13,
+      "visible_birds": 110
+    },
+    {
+      "time_sec": 14,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 15,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 16,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 17,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 18,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 19,
+      "visible_birds": 144
+    },
+    {
+      "time_sec": 20,
+      "visible_birds": 113
+    },
+    {
+      "time_sec": 21,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 22,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 23,
+      "visible_birds": 100
+    },
+    {
+      "time_sec": 24,
+      "visible_birds": 82
+    },
+    {
+      "time_sec": 25,
+      "visible_birds": 86
+    },
+    {
+      "time_sec": 26,
+      "visible_birds": 93
+    },
+    {
+      "time_sec": 27,
+      "visible_birds": 102
+    },
+    {
+      "time_sec": 28,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 29,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 30,
+      "visible_birds": 111
+    },
+    {
+      "time_sec": 31,
+      "visible_birds": 101
+    },
+    {
+      "time_sec": 32,
+      "visible_birds": 82
+    },
+    {
+      "time_sec": 33,
+      "visible_birds": 84
+    },
+    {
+      "time_sec": 34,
+      "visible_birds": 104
+    },
+    {
+      "time_sec": 35,
+      "visible_birds": 106
+    },
+    {
+      "time_sec": 36,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 37,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 38,
+      "visible_birds": 142
+    },
+    {
+      "time_sec": 39,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 40,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 41,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 42,
+      "visible_birds": 117
+    },
+    {
+      "time_sec": 43,
+      "visible_birds": 109
+    },
+    {
+      "time_sec": 44,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 45,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 46,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 47,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 48,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 49,
+      "visible_birds": 151
+    },
+    {
+      "time_sec": 50,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 51,
+      "visible_birds": 111
+    },
+    {
+      "time_sec": 52,
+      "visible_birds": 142
+    },
+    {
+      "time_sec": 53,
+      "visible_birds": 153
+    },
+    {
+      "time_sec": 54,
+      "visible_birds": 138
+    },
+    {
+      "time_sec": 55,
+      "visible_birds": 114
+    },
+    {
+      "time_sec": 56,
+      "visible_birds": 142
+    },
+    {
+      "time_sec": 57,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 58,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 59,
+      "visible_birds": 164
+    },
+    {
+      "time_sec": 60,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 61,
+      "visible_birds": 156
+    },
+    {
+      "time_sec": 62,
+      "visible_birds": 193
+    },
+    {
+      "time_sec": 63,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 64,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 65,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 66,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 67,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 68,
+      "visible_birds": 173
+    },
+    {
+      "time_sec": 69,
+      "visible_birds": 180
+    },
+    {
+      "time_sec": 70,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 71,
+      "visible_birds": 83
+    },
+    {
+      "time_sec": 72,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 73,
+      "visible_birds": 128
+    },
+    {
+      "time_sec": 74,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 75,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 76,
+      "visible_birds": 167
+    },
+    {
+      "time_sec": 77,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 78,
+      "visible_birds": 159
+    },
+    {
+      "time_sec": 79,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 80,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 81,
+      "visible_birds": 114
+    },
+    {
+      "time_sec": 82,
+      "visible_birds": 106
+    },
+    {
+      "time_sec": 83,
+      "visible_birds": 157
+    },
+    {
+      "time_sec": 84,
+      "visible_birds": 178
+    },
+    {
+      "time_sec": 85,
+      "visible_birds": 215
+    },
+    {
+      "time_sec": 86,
+      "visible_birds": 205
+    },
+    {
+      "time_sec": 87,
+      "visible_birds": 192
+    },
+    {
+      "time_sec": 88,
+      "visible_birds": 128
+    },
+    {
+      "time_sec": 89,
+      "visible_birds": 134
+    },
+    {
+      "time_sec": 90,
+      "visible_birds": 127
+    },
+    {
+      "time_sec": 91,
+      "visible_birds": 88
+    },
+    {
+      "time_sec": 92,
+      "visible_birds": 117
+    },
+    {
+      "time_sec": 93,
+      "visible_birds": 134
+    },
+    {
+      "time_sec": 94,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 95,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 96,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 97,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 98,
+      "visible_birds": 170
+    },
+    {
+      "time_sec": 99,
+      "visible_birds": 164
+    },
+    {
+      "time_sec": 100,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 101,
+      "visible_birds": 107
+    },
+    {
+      "time_sec": 102,
+      "visible_birds": 138
+    },
+    {
+      "time_sec": 103,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 104,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 105,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 106,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 107,
+      "visible_birds": 118
+    },
+    {
+      "time_sec": 108,
+      "visible_birds": 152
+    },
+    {
+      "time_sec": 109,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 110,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 111,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 112,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 113,
+      "visible_birds": 146
+    },
+    {
+      "time_sec": 114,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 115,
+      "visible_birds": 128
+    },
+    {
+      "time_sec": 116,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 117,
+      "visible_birds": 102
+    },
+    {
+      "time_sec": 118,
+      "visible_birds": 94
+    },
+    {
+      "time_sec": 119,
+      "visible_birds": 91
+    },
+    {
+      "time_sec": 120,
+      "visible_birds": 103
+    },
+    {
+      "time_sec": 121,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 122,
+      "visible_birds": 134
+    },
+    {
+      "time_sec": 123,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 124,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 125,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 126,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 127,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 128,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 129,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 130,
+      "visible_birds": 127
+    },
+    {
+      "time_sec": 131,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 132,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 133,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 134,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 135,
+      "visible_birds": 114
+    },
+    {
+      "time_sec": 136,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 137,
+      "visible_birds": 157
+    },
+    {
+      "time_sec": 138,
+      "visible_birds": 164
+    },
+    {
+      "time_sec": 139,
+      "visible_birds": 169
+    },
+    {
+      "time_sec": 140,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 141,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 142,
+      "visible_birds": 148
+    },
+    {
+      "time_sec": 143,
+      "visible_birds": 149
+    },
+    {
+      "time_sec": 144,
+      "visible_birds": 156
+    },
+    {
+      "time_sec": 145,
+      "visible_birds": 169
+    },
+    {
+      "time_sec": 146,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 147,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 148,
+      "visible_birds": 138
+    },
+    {
+      "time_sec": 149,
+      "visible_birds": 153
+    },
+    {
+      "time_sec": 150,
+      "visible_birds": 113
+    },
+    {
+      "time_sec": 151,
+      "visible_birds": 90
+    },
+    {
+      "time_sec": 152,
+      "visible_birds": 79
+    },
+    {
+      "time_sec": 153,
+      "visible_birds": 100
+    },
+    {
+      "time_sec": 154,
+      "visible_birds": 118
+    },
+    {
+      "time_sec": 155,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 156,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 157,
+      "visible_birds": 115
+    },
+    {
+      "time_sec": 158,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 159,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 160,
+      "visible_birds": 102
+    },
+    {
+      "time_sec": 161,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 162,
+      "visible_birds": 90
+    },
+    {
+      "time_sec": 163,
+      "visible_birds": 111
+    },
+    {
+      "time_sec": 164,
+      "visible_birds": 128
+    },
+    {
+      "time_sec": 165,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 166,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 167,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 168,
+      "visible_birds": 153
+    },
+    {
+      "time_sec": 169,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 170,
+      "visible_birds": 127
+    },
+    {
+      "time_sec": 171,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 172,
+      "visible_birds": 102
+    },
+    {
+      "time_sec": 173,
+      "visible_birds": 96
+    },
+    {
+      "time_sec": 174,
+      "visible_birds": 97
+    },
+    {
+      "time_sec": 175,
+      "visible_birds": 101
+    },
+    {
+      "time_sec": 176,
+      "visible_birds": 91
+    },
+    {
+      "time_sec": 177,
+      "visible_birds": 87
+    },
+    {
+      "time_sec": 178,
+      "visible_birds": 106
+    },
+    {
+      "time_sec": 179,
+      "visible_birds": 87
+    },
+    {
+      "time_sec": 180,
+      "visible_birds": 107
+    },
+    {
+      "time_sec": 181,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 182,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 183,
+      "visible_birds": 135
+    },
+    {
+      "time_sec": 184,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 185,
+      "visible_birds": 107
+    },
+    {
+      "time_sec": 186,
+      "visible_birds": 111
+    },
+    {
+      "time_sec": 187,
+      "visible_birds": 101
+    },
+    {
+      "time_sec": 188,
+      "visible_birds": 135
+    },
+    {
+      "time_sec": 189,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 190,
+      "visible_birds": 98
+    },
+    {
+      "time_sec": 191,
+      "visible_birds": 90
+    },
+    {
+      "time_sec": 192,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 193,
+      "visible_birds": 114
+    },
+    {
+      "time_sec": 194,
+      "visible_birds": 113
+    },
+    {
+      "time_sec": 195,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 196,
+      "visible_birds": 97
+    },
+    {
+      "time_sec": 197,
+      "visible_birds": 92
+    },
+    {
+      "time_sec": 198,
+      "visible_birds": 107
+    },
+    {
+      "time_sec": 199,
+      "visible_birds": 97
+    },
+    {
+      "time_sec": 200,
+      "visible_birds": 110
+    },
+    {
+      "time_sec": 201,
+      "visible_birds": 104
+    },
+    {
+      "time_sec": 202,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 203,
+      "visible_birds": 158
+    },
+    {
+      "time_sec": 204,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 205,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 206,
+      "visible_birds": 154
+    },
+    {
+      "time_sec": 207,
+      "visible_birds": 118
+    },
+    {
+      "time_sec": 208,
+      "visible_birds": 101
+    },
+    {
+      "time_sec": 209,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 210,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 211,
+      "visible_birds": 101
+    },
+    {
+      "time_sec": 212,
+      "visible_birds": 101
+    },
+    {
+      "time_sec": 213,
+      "visible_birds": 110
+    },
+    {
+      "time_sec": 214,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 215,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 216,
+      "visible_birds": 149
+    },
+    {
+      "time_sec": 217,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 218,
+      "visible_birds": 110
+    },
+    {
+      "time_sec": 219,
+      "visible_birds": 101
+    },
+    {
+      "time_sec": 220,
+      "visible_birds": 114
+    },
+    {
+      "time_sec": 221,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 222,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 223,
+      "visible_birds": 152
+    },
+    {
+      "time_sec": 224,
+      "visible_birds": 161
+    },
+    {
+      "time_sec": 225,
+      "visible_birds": 157
+    },
+    {
+      "time_sec": 226,
+      "visible_birds": 146
+    },
+    {
+      "time_sec": 227,
+      "visible_birds": 163
+    },
+    {
+      "time_sec": 228,
+      "visible_birds": 209
+    },
+    {
+      "time_sec": 229,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 230,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 231,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 232,
+      "visible_birds": 117
+    },
+    {
+      "time_sec": 233,
+      "visible_birds": 168
+    },
+    {
+      "time_sec": 234,
+      "visible_birds": 165
+    },
+    {
+      "time_sec": 235,
+      "visible_birds": 154
+    },
+    {
+      "time_sec": 236,
+      "visible_birds": 180
+    },
+    {
+      "time_sec": 237,
+      "visible_birds": 169
+    },
+    {
+      "time_sec": 238,
+      "visible_birds": 200
+    },
+    {
+      "time_sec": 239,
+      "visible_birds": 190
+    },
+    {
+      "time_sec": 240,
+      "visible_birds": 135
+    },
+    {
+      "time_sec": 241,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 242,
+      "visible_birds": 188
+    },
+    {
+      "time_sec": 243,
+      "visible_birds": 162
+    },
+    {
+      "time_sec": 244,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 245,
+      "visible_birds": 183
+    },
+    {
+      "time_sec": 246,
+      "visible_birds": 174
+    },
+    {
+      "time_sec": 247,
+      "visible_birds": 175
+    },
+    {
+      "time_sec": 248,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 249,
+      "visible_birds": 152
+    },
+    {
+      "time_sec": 250,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 251,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 252,
+      "visible_birds": 128
+    },
+    {
+      "time_sec": 253,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 254,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 255,
+      "visible_birds": 113
+    },
+    {
+      "time_sec": 256,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 257,
+      "visible_birds": 118
+    },
+    {
+      "time_sec": 258,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 259,
+      "visible_birds": 128
+    },
+    {
+      "time_sec": 260,
+      "visible_birds": 155
+    },
+    {
+      "time_sec": 261,
+      "visible_birds": 181
+    },
+    {
+      "time_sec": 262,
+      "visible_birds": 164
+    },
+    {
+      "time_sec": 263,
+      "visible_birds": 177
+    },
+    {
+      "time_sec": 264,
+      "visible_birds": 184
+    },
+    {
+      "time_sec": 265,
+      "visible_birds": 214
+    },
+    {
+      "time_sec": 266,
+      "visible_birds": 172
+    },
+    {
+      "time_sec": 267,
+      "visible_birds": 167
+    },
+    {
+      "time_sec": 268,
+      "visible_birds": 155
+    },
+    {
+      "time_sec": 269,
+      "visible_birds": 154
+    },
+    {
+      "time_sec": 270,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 271,
+      "visible_birds": 186
+    },
+    {
+      "time_sec": 272,
+      "visible_birds": 210
+    },
+    {
+      "time_sec": 273,
+      "visible_birds": 233
+    },
+    {
+      "time_sec": 274,
+      "visible_birds": 233
+    },
+    {
+      "time_sec": 275,
+      "visible_birds": 299
+    },
+    {
+      "time_sec": 276,
+      "visible_birds": 221
+    },
+    {
+      "time_sec": 277,
+      "visible_birds": 250
+    },
+    {
+      "time_sec": 278,
+      "visible_birds": 196
+    },
+    {
+      "time_sec": 279,
+      "visible_birds": 178
+    },
+    {
+      "time_sec": 280,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 281,
+      "visible_birds": 104
+    },
+    {
+      "time_sec": 282,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 283,
+      "visible_birds": 160
+    },
+    {
+      "time_sec": 284,
+      "visible_birds": 154
+    },
+    {
+      "time_sec": 285,
+      "visible_birds": 157
+    },
+    {
+      "time_sec": 286,
+      "visible_birds": 168
+    },
+    {
+      "time_sec": 287,
+      "visible_birds": 154
+    },
+    {
+      "time_sec": 288,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 289,
+      "visible_birds": 152
+    },
+    {
+      "time_sec": 290,
+      "visible_birds": 142
+    },
+    {
+      "time_sec": 291,
+      "visible_birds": 142
+    },
+    {
+      "time_sec": 292,
+      "visible_birds": 174
+    },
+    {
+      "time_sec": 293,
+      "visible_birds": 199
+    },
+    {
+      "time_sec": 294,
+      "visible_birds": 169
+    },
+    {
+      "time_sec": 295,
+      "visible_birds": 159
+    },
+    {
+      "time_sec": 296,
+      "visible_birds": 138
+    },
+    {
+      "time_sec": 297,
+      "visible_birds": 148
+    },
+    {
+      "time_sec": 298,
+      "visible_birds": 187
+    },
+    {
+      "time_sec": 299,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 300,
+      "visible_birds": 150
+    },
+    {
+      "time_sec": 301,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 302,
+      "visible_birds": 154
+    },
+    {
+      "time_sec": 303,
+      "visible_birds": 173
+    },
+    {
+      "time_sec": 304,
+      "visible_birds": 228
+    },
+    {
+      "time_sec": 305,
+      "visible_birds": 180
+    },
+    {
+      "time_sec": 306,
+      "visible_birds": 200
+    },
+    {
+      "time_sec": 307,
+      "visible_birds": 224
+    },
+    {
+      "time_sec": 308,
+      "visible_birds": 212
+    },
+    {
+      "time_sec": 309,
+      "visible_birds": 206
+    },
+    {
+      "time_sec": 310,
+      "visible_birds": 206
+    },
+    {
+      "time_sec": 311,
+      "visible_birds": 223
+    },
+    {
+      "time_sec": 312,
+      "visible_birds": 271
+    },
+    {
+      "time_sec": 313,
+      "visible_birds": 236
+    },
+    {
+      "time_sec": 314,
+      "visible_birds": 260
+    },
+    {
+      "time_sec": 315,
+      "visible_birds": 249
+    },
+    {
+      "time_sec": 316,
+      "visible_birds": 254
+    },
+    {
+      "time_sec": 317,
+      "visible_birds": 291
+    },
+    {
+      "time_sec": 318,
+      "visible_birds": 249
+    },
+    {
+      "time_sec": 319,
+      "visible_birds": 207
+    },
+    {
+      "time_sec": 320,
+      "visible_birds": 199
+    },
+    {
+      "time_sec": 321,
+      "visible_birds": 188
+    },
+    {
+      "time_sec": 322,
+      "visible_birds": 206
+    },
+    {
+      "time_sec": 323,
+      "visible_birds": 182
+    },
+    {
+      "time_sec": 324,
+      "visible_birds": 194
+    },
+    {
+      "time_sec": 325,
+      "visible_birds": 210
+    },
+    {
+      "time_sec": 326,
+      "visible_birds": 234
+    },
+    {
+      "time_sec": 327,
+      "visible_birds": 241
+    },
+    {
+      "time_sec": 328,
+      "visible_birds": 252
+    },
+    {
+      "time_sec": 329,
+      "visible_birds": 251
+    },
+    {
+      "time_sec": 330,
+      "visible_birds": 172
+    },
+    {
+      "time_sec": 331,
+      "visible_birds": 180
+    },
+    {
+      "time_sec": 332,
+      "visible_birds": 169
+    },
+    {
+      "time_sec": 333,
+      "visible_birds": 199
+    },
+    {
+      "time_sec": 334,
+      "visible_birds": 188
+    },
+    {
+      "time_sec": 335,
+      "visible_birds": 188
+    },
+    {
+      "time_sec": 336,
+      "visible_birds": 248
+    },
+    {
+      "time_sec": 337,
+      "visible_birds": 199
+    },
+    {
+      "time_sec": 338,
+      "visible_birds": 207
+    },
+    {
+      "time_sec": 339,
+      "visible_birds": 273
+    },
+    {
+      "time_sec": 340,
+      "visible_birds": 273
+    },
+    {
+      "time_sec": 341,
+      "visible_birds": 239
+    },
+    {
+      "time_sec": 342,
+      "visible_birds": 198
+    },
+    {
+      "time_sec": 343,
+      "visible_birds": 203
+    },
+    {
+      "time_sec": 344,
+      "visible_birds": 234
+    },
+    {
+      "time_sec": 345,
+      "visible_birds": 205
+    },
+    {
+      "time_sec": 346,
+      "visible_birds": 240
+    },
+    {
+      "time_sec": 347,
+      "visible_birds": 195
+    },
+    {
+      "time_sec": 348,
+      "visible_birds": 220
+    },
+    {
+      "time_sec": 349,
+      "visible_birds": 245
+    },
+    {
+      "time_sec": 350,
+      "visible_birds": 168
+    },
+    {
+      "time_sec": 351,
+      "visible_birds": 184
+    },
+    {
+      "time_sec": 352,
+      "visible_birds": 148
+    },
+    {
+      "time_sec": 353,
+      "visible_birds": 176
+    },
+    {
+      "time_sec": 354,
+      "visible_birds": 165
+    },
+    {
+      "time_sec": 355,
+      "visible_birds": 174
+    },
+    {
+      "time_sec": 356,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 357,
+      "visible_birds": 164
+    },
+    {
+      "time_sec": 358,
+      "visible_birds": 148
+    },
+    {
+      "time_sec": 359,
+      "visible_birds": 144
+    },
+    {
+      "time_sec": 360,
+      "visible_birds": 149
+    },
+    {
+      "time_sec": 361,
+      "visible_birds": 144
+    },
+    {
+      "time_sec": 362,
+      "visible_birds": 152
+    },
+    {
+      "time_sec": 363,
+      "visible_birds": 163
+    },
+    {
+      "time_sec": 364,
+      "visible_birds": 169
+    },
+    {
+      "time_sec": 365,
+      "visible_birds": 176
+    },
+    {
+      "time_sec": 366,
+      "visible_birds": 201
+    },
+    {
+      "time_sec": 367,
+      "visible_birds": 172
+    },
+    {
+      "time_sec": 368,
+      "visible_birds": 206
+    },
+    {
+      "time_sec": 369,
+      "visible_birds": 188
+    },
+    {
+      "time_sec": 370,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 371,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 372,
+      "visible_birds": 152
+    },
+    {
+      "time_sec": 373,
+      "visible_birds": 152
+    },
+    {
+      "time_sec": 374,
+      "visible_birds": 146
+    },
+    {
+      "time_sec": 375,
+      "visible_birds": 153
+    },
+    {
+      "time_sec": 376,
+      "visible_birds": 146
+    },
+    {
+      "time_sec": 377,
+      "visible_birds": 182
+    },
+    {
+      "time_sec": 378,
+      "visible_birds": 182
+    },
+    {
+      "time_sec": 379,
+      "visible_birds": 180
+    },
+    {
+      "time_sec": 380,
+      "visible_birds": 162
+    },
+    {
+      "time_sec": 381,
+      "visible_birds": 153
+    },
+    {
+      "time_sec": 382,
+      "visible_birds": 177
+    },
+    {
+      "time_sec": 383,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 384,
+      "visible_birds": 150
+    },
+    {
+      "time_sec": 385,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 386,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 387,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 388,
+      "visible_birds": 128
+    },
+    {
+      "time_sec": 389,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 390,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 391,
+      "visible_birds": 109
+    },
+    {
+      "time_sec": 392,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 393,
+      "visible_birds": 96
+    },
+    {
+      "time_sec": 394,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 395,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 396,
+      "visible_birds": 114
+    },
+    {
+      "time_sec": 397,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 398,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 399,
+      "visible_birds": 134
+    },
+    {
+      "time_sec": 400,
+      "visible_birds": 115
+    },
+    {
+      "time_sec": 401,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 402,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 403,
+      "visible_birds": 138
+    },
+    {
+      "time_sec": 404,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 405,
+      "visible_birds": 161
+    },
+    {
+      "time_sec": 406,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 407,
+      "visible_birds": 150
+    },
+    {
+      "time_sec": 408,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 409,
+      "visible_birds": 161
+    },
+    {
+      "time_sec": 410,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 411,
+      "visible_birds": 113
+    },
+    {
+      "time_sec": 412,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 413,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 414,
+      "visible_birds": 119
+    },
+    {
+      "time_sec": 415,
+      "visible_birds": 159
+    },
+    {
+      "time_sec": 416,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 417,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 418,
+      "visible_birds": 128
+    },
+    {
+      "time_sec": 419,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 420,
+      "visible_birds": 154
+    },
+    {
+      "time_sec": 421,
+      "visible_birds": 142
+    },
+    {
+      "time_sec": 422,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 423,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 424,
+      "visible_birds": 119
+    },
+    {
+      "time_sec": 425,
+      "visible_birds": 138
+    },
+    {
+      "time_sec": 426,
+      "visible_birds": 146
+    },
+    {
+      "time_sec": 427,
+      "visible_birds": 178
+    },
+    {
+      "time_sec": 428,
+      "visible_birds": 164
+    },
+    {
+      "time_sec": 429,
+      "visible_birds": 165
+    },
+    {
+      "time_sec": 430,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 431,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 432,
+      "visible_birds": 147
+    },
+    {
+      "time_sec": 433,
+      "visible_birds": 147
+    },
+    {
+      "time_sec": 434,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 435,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 436,
+      "visible_birds": 154
+    },
+    {
+      "time_sec": 437,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 438,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 439,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 440,
+      "visible_birds": 101
+    },
+    {
+      "time_sec": 441,
+      "visible_birds": 89
+    },
+    {
+      "time_sec": 442,
+      "visible_birds": 107
+    },
+    {
+      "time_sec": 443,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 444,
+      "visible_birds": 114
+    },
+    {
+      "time_sec": 445,
+      "visible_birds": 79
+    },
+    {
+      "time_sec": 446,
+      "visible_birds": 100
+    },
+    {
+      "time_sec": 447,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 448,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 449,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 450,
+      "visible_birds": 62
+    },
+    {
+      "time_sec": 451,
+      "visible_birds": 59
+    },
+    {
+      "time_sec": 452,
+      "visible_birds": 86
+    },
+    {
+      "time_sec": 453,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 454,
+      "visible_birds": 115
+    },
+    {
+      "time_sec": 455,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 456,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 457,
+      "visible_birds": 119
+    },
+    {
+      "time_sec": 458,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 459,
+      "visible_birds": 107
+    },
+    {
+      "time_sec": 460,
+      "visible_birds": 118
+    },
+    {
+      "time_sec": 461,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 462,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 463,
+      "visible_birds": 103
+    },
+    {
+      "time_sec": 464,
+      "visible_birds": 95
+    },
+    {
+      "time_sec": 465,
+      "visible_birds": 99
+    },
+    {
+      "time_sec": 466,
+      "visible_birds": 94
+    },
+    {
+      "time_sec": 467,
+      "visible_birds": 110
+    },
+    {
+      "time_sec": 468,
+      "visible_birds": 91
+    },
+    {
+      "time_sec": 469,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 470,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 471,
+      "visible_birds": 57
+    },
+    {
+      "time_sec": 472,
+      "visible_birds": 89
+    },
+    {
+      "time_sec": 473,
+      "visible_birds": 83
+    },
+    {
+      "time_sec": 474,
+      "visible_birds": 70
+    },
+    {
+      "time_sec": 475,
+      "visible_birds": 80
+    },
+    {
+      "time_sec": 476,
+      "visible_birds": 67
+    },
+    {
+      "time_sec": 477,
+      "visible_birds": 79
+    },
+    {
+      "time_sec": 478,
+      "visible_birds": 70
+    },
+    {
+      "time_sec": 479,
+      "visible_birds": 68
+    },
+    {
+      "time_sec": 480,
+      "visible_birds": 80
+    },
+    {
+      "time_sec": 481,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 482,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 483,
+      "visible_birds": 134
+    },
+    {
+      "time_sec": 484,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 485,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 486,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 487,
+      "visible_birds": 128
+    },
+    {
+      "time_sec": 488,
+      "visible_birds": 99
+    },
+    {
+      "time_sec": 489,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 490,
+      "visible_birds": 118
+    },
+    {
+      "time_sec": 491,
+      "visible_birds": 118
+    },
+    {
+      "time_sec": 492,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 493,
+      "visible_birds": 167
+    },
+    {
+      "time_sec": 494,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 495,
+      "visible_birds": 127
+    },
+    {
+      "time_sec": 496,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 497,
+      "visible_birds": 52
+    },
+    {
+      "time_sec": 498,
+      "visible_birds": 75
+    },
+    {
+      "time_sec": 499,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 500,
+      "visible_birds": 91
+    },
+    {
+      "time_sec": 501,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 502,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 503,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 504,
+      "visible_birds": 185
+    },
+    {
+      "time_sec": 505,
+      "visible_birds": 198
+    },
+    {
+      "time_sec": 506,
+      "visible_birds": 210
+    },
+    {
+      "time_sec": 507,
+      "visible_birds": 185
+    },
+    {
+      "time_sec": 508,
+      "visible_birds": 186
+    },
+    {
+      "time_sec": 509,
+      "visible_birds": 144
+    },
+    {
+      "time_sec": 510,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 511,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 512,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 513,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 514,
+      "visible_birds": 119
+    },
+    {
+      "time_sec": 515,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 516,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 517,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 518,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 519,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 520,
+      "visible_birds": 117
+    },
+    {
+      "time_sec": 521,
+      "visible_birds": 162
+    },
+    {
+      "time_sec": 522,
+      "visible_birds": 177
+    },
+    {
+      "time_sec": 523,
+      "visible_birds": 153
+    },
+    {
+      "time_sec": 524,
+      "visible_birds": 161
+    },
+    {
+      "time_sec": 525,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 526,
+      "visible_birds": 155
+    },
+    {
+      "time_sec": 527,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 528,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 529,
+      "visible_birds": 142
+    },
+    {
+      "time_sec": 530,
+      "visible_birds": 91
+    },
+    {
+      "time_sec": 531,
+      "visible_birds": 92
+    },
+    {
+      "time_sec": 532,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 533,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 534,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 535,
+      "visible_birds": 61
+    },
+    {
+      "time_sec": 536,
+      "visible_birds": 72
+    },
+    {
+      "time_sec": 537,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 538,
+      "visible_birds": 75
+    },
+    {
+      "time_sec": 539,
+      "visible_birds": 68
+    },
+    {
+      "time_sec": 540,
+      "visible_birds": 63
+    },
+    {
+      "time_sec": 541,
+      "visible_birds": 77
+    },
+    {
+      "time_sec": 542,
+      "visible_birds": 99
+    },
+    {
+      "time_sec": 543,
+      "visible_birds": 84
+    },
+    {
+      "time_sec": 544,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 545,
+      "visible_birds": 50
+    },
+    {
+      "time_sec": 546,
+      "visible_birds": 88
+    },
+    {
+      "time_sec": 547,
+      "visible_birds": 63
+    },
+    {
+      "time_sec": 548,
+      "visible_birds": 66
+    },
+    {
+      "time_sec": 549,
+      "visible_birds": 60
+    },
+    {
+      "time_sec": 550,
+      "visible_birds": 91
+    },
+    {
+      "time_sec": 551,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 552,
+      "visible_birds": 92
+    },
+    {
+      "time_sec": 553,
+      "visible_birds": 101
+    },
+    {
+      "time_sec": 554,
+      "visible_birds": 113
+    },
+    {
+      "time_sec": 555,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 556,
+      "visible_birds": 103
+    },
+    {
+      "time_sec": 557,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 558,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 559,
+      "visible_birds": 91
+    },
+    {
+      "time_sec": 560,
+      "visible_birds": 106
+    },
+    {
+      "time_sec": 561,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 562,
+      "visible_birds": 134
+    },
+    {
+      "time_sec": 563,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 564,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 565,
+      "visible_birds": 114
+    },
+    {
+      "time_sec": 566,
+      "visible_birds": 99
+    },
+    {
+      "time_sec": 567,
+      "visible_birds": 144
+    },
+    {
+      "time_sec": 568,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 569,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 570,
+      "visible_birds": 109
+    },
+    {
+      "time_sec": 571,
+      "visible_birds": 88
+    },
+    {
+      "time_sec": 572,
+      "visible_birds": 92
+    },
+    {
+      "time_sec": 573,
+      "visible_birds": 96
+    },
+    {
+      "time_sec": 574,
+      "visible_birds": 52
+    },
+    {
+      "time_sec": 575,
+      "visible_birds": 78
+    },
+    {
+      "time_sec": 576,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 577,
+      "visible_birds": 115
+    },
+    {
+      "time_sec": 578,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 579,
+      "visible_birds": 113
+    },
+    {
+      "time_sec": 580,
+      "visible_birds": 107
+    },
+    {
+      "time_sec": 581,
+      "visible_birds": 118
+    },
+    {
+      "time_sec": 582,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 583,
+      "visible_birds": 134
+    },
+    {
+      "time_sec": 584,
+      "visible_birds": 160
+    },
+    {
+      "time_sec": 585,
+      "visible_birds": 164
+    },
+    {
+      "time_sec": 586,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 587,
+      "visible_birds": 149
+    },
+    {
+      "time_sec": 588,
+      "visible_birds": 163
+    },
+    {
+      "time_sec": 589,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 590,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 591,
+      "visible_birds": 135
+    },
+    {
+      "time_sec": 592,
+      "visible_birds": 172
+    },
+    {
+      "time_sec": 593,
+      "visible_birds": 161
+    },
+    {
+      "time_sec": 594,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 595,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 596,
+      "visible_birds": 157
+    },
+    {
+      "time_sec": 597,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 598,
+      "visible_birds": 164
+    },
+    {
+      "time_sec": 599,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 600,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 601,
+      "visible_birds": 142
+    },
+    {
+      "time_sec": 602,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 603,
+      "visible_birds": 148
+    },
+    {
+      "time_sec": 604,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 605,
+      "visible_birds": 151
+    },
+    {
+      "time_sec": 606,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 607,
+      "visible_birds": 118
+    },
+    {
+      "time_sec": 608,
+      "visible_birds": 144
+    },
+    {
+      "time_sec": 609,
+      "visible_birds": 138
+    },
+    {
+      "time_sec": 610,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 611,
+      "visible_birds": 115
+    },
+    {
+      "time_sec": 612,
+      "visible_birds": 127
+    },
+    {
+      "time_sec": 613,
+      "visible_birds": 159
+    },
+    {
+      "time_sec": 614,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 615,
+      "visible_birds": 117
+    },
+    {
+      "time_sec": 616,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 617,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 618,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 619,
+      "visible_birds": 119
+    },
+    {
+      "time_sec": 620,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 621,
+      "visible_birds": 148
+    },
+    {
+      "time_sec": 622,
+      "visible_birds": 134
+    },
+    {
+      "time_sec": 623,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 624,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 625,
+      "visible_birds": 113
+    },
+    {
+      "time_sec": 626,
+      "visible_birds": 104
+    },
+    {
+      "time_sec": 627,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 628,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 629,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 630,
+      "visible_birds": 104
+    },
+    {
+      "time_sec": 631,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 632,
+      "visible_birds": 103
+    },
+    {
+      "time_sec": 633,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 634,
+      "visible_birds": 103
+    },
+    {
+      "time_sec": 635,
+      "visible_birds": 110
+    },
+    {
+      "time_sec": 636,
+      "visible_birds": 104
+    },
+    {
+      "time_sec": 637,
+      "visible_birds": 103
+    },
+    {
+      "time_sec": 638,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 639,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 640,
+      "visible_birds": 107
+    },
+    {
+      "time_sec": 641,
+      "visible_birds": 115
+    },
+    {
+      "time_sec": 642,
+      "visible_birds": 115
+    },
+    {
+      "time_sec": 643,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 644,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 645,
+      "visible_birds": 148
+    },
+    {
+      "time_sec": 646,
+      "visible_birds": 146
+    },
+    {
+      "time_sec": 647,
+      "visible_birds": 158
+    },
+    {
+      "time_sec": 648,
+      "visible_birds": 142
+    },
+    {
+      "time_sec": 649,
+      "visible_birds": 172
+    },
+    {
+      "time_sec": 650,
+      "visible_birds": 147
+    },
+    {
+      "time_sec": 651,
+      "visible_birds": 204
+    },
+    {
+      "time_sec": 652,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 653,
+      "visible_birds": 183
+    },
+    {
+      "time_sec": 654,
+      "visible_birds": 109
+    },
+    {
+      "time_sec": 655,
+      "visible_birds": 135
+    },
+    {
+      "time_sec": 656,
+      "visible_birds": 172
+    },
+    {
+      "time_sec": 657,
+      "visible_birds": 172
+    },
+    {
+      "time_sec": 658,
+      "visible_birds": 202
+    },
+    {
+      "time_sec": 659,
+      "visible_birds": 151
+    },
+    {
+      "time_sec": 660,
+      "visible_birds": 170
+    },
+    {
+      "time_sec": 661,
+      "visible_birds": 208
+    },
+    {
+      "time_sec": 662,
+      "visible_birds": 161
+    },
+    {
+      "time_sec": 663,
+      "visible_birds": 144
+    },
+    {
+      "time_sec": 664,
+      "visible_birds": 153
+    },
+    {
+      "time_sec": 665,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 666,
+      "visible_birds": 177
+    },
+    {
+      "time_sec": 667,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 668,
+      "visible_birds": 113
+    },
+    {
+      "time_sec": 669,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 670,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 671,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 672,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 673,
+      "visible_birds": 119
+    },
+    {
+      "time_sec": 674,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 675,
+      "visible_birds": 149
+    },
+    {
+      "time_sec": 676,
+      "visible_birds": 100
+    },
+    {
+      "time_sec": 677,
+      "visible_birds": 95
+    },
+    {
+      "time_sec": 678,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 679,
+      "visible_birds": 111
+    },
+    {
+      "time_sec": 680,
+      "visible_birds": 111
+    },
+    {
+      "time_sec": 681,
+      "visible_birds": 103
+    },
+    {
+      "time_sec": 682,
+      "visible_birds": 106
+    },
+    {
+      "time_sec": 683,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 684,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 685,
+      "visible_birds": 119
+    },
+    {
+      "time_sec": 686,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 687,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 688,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 689,
+      "visible_birds": 146
+    },
+    {
+      "time_sec": 690,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 691,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 692,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 693,
+      "visible_birds": 128
+    },
+    {
+      "time_sec": 694,
+      "visible_birds": 149
+    },
+    {
+      "time_sec": 695,
+      "visible_birds": 161
+    },
+    {
+      "time_sec": 696,
+      "visible_birds": 142
+    },
+    {
+      "time_sec": 697,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 698,
+      "visible_birds": 148
+    },
+    {
+      "time_sec": 699,
+      "visible_birds": 169
+    },
+    {
+      "time_sec": 700,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 701,
+      "visible_birds": 102
+    },
+    {
+      "time_sec": 702,
+      "visible_birds": 94
+    },
+    {
+      "time_sec": 703,
+      "visible_birds": 106
+    },
+    {
+      "time_sec": 704,
+      "visible_birds": 113
+    },
+    {
+      "time_sec": 705,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 706,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 707,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 708,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 709,
+      "visible_birds": 115
+    },
+    {
+      "time_sec": 710,
+      "visible_birds": 97
+    },
+    {
+      "time_sec": 711,
+      "visible_birds": 103
+    },
+    {
+      "time_sec": 712,
+      "visible_birds": 158
+    },
+    {
+      "time_sec": 713,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 714,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 715,
+      "visible_birds": 170
+    },
+    {
+      "time_sec": 716,
+      "visible_birds": 181
+    },
+    {
+      "time_sec": 717,
+      "visible_birds": 187
+    },
+    {
+      "time_sec": 718,
+      "visible_birds": 176
+    },
+    {
+      "time_sec": 719,
+      "visible_birds": 171
+    },
+    {
+      "time_sec": 720,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 721,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 722,
+      "visible_birds": 149
+    },
+    {
+      "time_sec": 723,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 724,
+      "visible_birds": 171
+    },
+    {
+      "time_sec": 725,
+      "visible_birds": 168
+    },
+    {
+      "time_sec": 726,
+      "visible_birds": 164
+    },
+    {
+      "time_sec": 727,
+      "visible_birds": 142
+    },
+    {
+      "time_sec": 728,
+      "visible_birds": 172
+    },
+    {
+      "time_sec": 729,
+      "visible_birds": 149
+    },
+    {
+      "time_sec": 730,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 731,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 732,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 733,
+      "visible_birds": 149
+    },
+    {
+      "time_sec": 734,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 735,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 736,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 737,
+      "visible_birds": 150
+    },
+    {
+      "time_sec": 738,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 739,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 740,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 741,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 742,
+      "visible_birds": 117
+    },
+    {
+      "time_sec": 743,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 744,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 745,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 746,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 747,
+      "visible_birds": 136
+    },
+    {
+      "time_sec": 748,
+      "visible_birds": 134
+    },
+    {
+      "time_sec": 749,
+      "visible_birds": 138
+    },
+    {
+      "time_sec": 750,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 751,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 752,
+      "visible_birds": 115
+    },
+    {
+      "time_sec": 753,
+      "visible_birds": 100
+    },
+    {
+      "time_sec": 754,
+      "visible_birds": 111
+    },
+    {
+      "time_sec": 755,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 756,
+      "visible_birds": 118
+    },
+    {
+      "time_sec": 757,
+      "visible_birds": 111
+    },
+    {
+      "time_sec": 758,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 759,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 760,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 761,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 762,
+      "visible_birds": 107
+    },
+    {
+      "time_sec": 763,
+      "visible_birds": 127
+    },
+    {
+      "time_sec": 764,
+      "visible_birds": 145
+    },
+    {
+      "time_sec": 765,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 766,
+      "visible_birds": 138
+    },
+    {
+      "time_sec": 767,
+      "visible_birds": 170
+    },
+    {
+      "time_sec": 768,
+      "visible_birds": 172
+    },
+    {
+      "time_sec": 769,
+      "visible_birds": 172
+    },
+    {
+      "time_sec": 770,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 771,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 772,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 773,
+      "visible_birds": 94
+    },
+    {
+      "time_sec": 774,
+      "visible_birds": 113
+    },
+    {
+      "time_sec": 775,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 776,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 777,
+      "visible_birds": 119
+    },
+    {
+      "time_sec": 778,
+      "visible_birds": 114
+    },
+    {
+      "time_sec": 779,
+      "visible_birds": 98
+    },
+    {
+      "time_sec": 780,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 781,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 782,
+      "visible_birds": 106
+    },
+    {
+      "time_sec": 783,
+      "visible_birds": 127
+    },
+    {
+      "time_sec": 784,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 785,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 786,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 787,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 788,
+      "visible_birds": 95
+    },
+    {
+      "time_sec": 789,
+      "visible_birds": 92
+    },
+    {
+      "time_sec": 790,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 791,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 792,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 793,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 794,
+      "visible_birds": 127
+    },
+    {
+      "time_sec": 795,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 796,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 797,
+      "visible_birds": 105
+    },
+    {
+      "time_sec": 798,
+      "visible_birds": 111
+    },
+    {
+      "time_sec": 799,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 800,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 801,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 802,
+      "visible_birds": 117
+    },
+    {
+      "time_sec": 803,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 804,
+      "visible_birds": 115
+    },
+    {
+      "time_sec": 805,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 806,
+      "visible_birds": 164
+    },
+    {
+      "time_sec": 807,
+      "visible_birds": 127
+    },
+    {
+      "time_sec": 808,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 809,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 810,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 811,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 812,
+      "visible_birds": 148
+    },
+    {
+      "time_sec": 813,
+      "visible_birds": 169
+    },
+    {
+      "time_sec": 814,
+      "visible_birds": 135
+    },
+    {
+      "time_sec": 815,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 816,
+      "visible_birds": 149
+    },
+    {
+      "time_sec": 817,
+      "visible_birds": 137
+    },
+    {
+      "time_sec": 818,
+      "visible_birds": 142
+    },
+    {
+      "time_sec": 819,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 820,
+      "visible_birds": 114
+    },
+    {
+      "time_sec": 821,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 822,
+      "visible_birds": 127
+    },
+    {
+      "time_sec": 823,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 824,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 825,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 826,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 827,
+      "visible_birds": 127
+    },
+    {
+      "time_sec": 828,
+      "visible_birds": 151
+    },
+    {
+      "time_sec": 829,
+      "visible_birds": 135
+    },
+    {
+      "time_sec": 830,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 831,
+      "visible_birds": 154
+    },
+    {
+      "time_sec": 832,
+      "visible_birds": 148
+    },
+    {
+      "time_sec": 833,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 834,
+      "visible_birds": 155
+    },
+    {
+      "time_sec": 835,
+      "visible_birds": 154
+    },
+    {
+      "time_sec": 836,
+      "visible_birds": 158
+    },
+    {
+      "time_sec": 837,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 838,
+      "visible_birds": 128
+    },
+    {
+      "time_sec": 839,
+      "visible_birds": 132
+    },
+    {
+      "time_sec": 840,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 841,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 842,
+      "visible_birds": 117
+    },
+    {
+      "time_sec": 843,
+      "visible_birds": 131
+    },
+    {
+      "time_sec": 844,
+      "visible_birds": 155
+    },
+    {
+      "time_sec": 845,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 846,
+      "visible_birds": 149
+    },
+    {
+      "time_sec": 847,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 848,
+      "visible_birds": 98
+    },
+    {
+      "time_sec": 849,
+      "visible_birds": 102
+    },
+    {
+      "time_sec": 850,
+      "visible_birds": 107
+    },
+    {
+      "time_sec": 851,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 852,
+      "visible_birds": 101
+    },
+    {
+      "time_sec": 853,
+      "visible_birds": 110
+    },
+    {
+      "time_sec": 854,
+      "visible_birds": 118
+    },
+    {
+      "time_sec": 855,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 856,
+      "visible_birds": 102
+    },
+    {
+      "time_sec": 857,
+      "visible_birds": 106
+    },
+    {
+      "time_sec": 858,
+      "visible_birds": 108
+    },
+    {
+      "time_sec": 859,
+      "visible_birds": 98
+    },
+    {
+      "time_sec": 860,
+      "visible_birds": 116
+    },
+    {
+      "time_sec": 861,
+      "visible_birds": 111
+    },
+    {
+      "time_sec": 862,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 863,
+      "visible_birds": 117
+    },
+    {
+      "time_sec": 864,
+      "visible_birds": 128
+    },
+    {
+      "time_sec": 865,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 866,
+      "visible_birds": 112
+    },
+    {
+      "time_sec": 867,
+      "visible_birds": 156
+    },
+    {
+      "time_sec": 868,
+      "visible_birds": 168
+    },
+    {
+      "time_sec": 869,
+      "visible_birds": 156
+    },
+    {
+      "time_sec": 870,
+      "visible_birds": 173
+    },
+    {
+      "time_sec": 871,
+      "visible_birds": 155
+    },
+    {
+      "time_sec": 872,
+      "visible_birds": 150
+    },
+    {
+      "time_sec": 873,
+      "visible_birds": 162
+    },
+    {
+      "time_sec": 874,
+      "visible_birds": 155
+    },
+    {
+      "time_sec": 875,
+      "visible_birds": 134
+    },
+    {
+      "time_sec": 876,
+      "visible_birds": 148
+    },
+    {
+      "time_sec": 877,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 878,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 879,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 880,
+      "visible_birds": 120
+    },
+    {
+      "time_sec": 881,
+      "visible_birds": 125
+    },
+    {
+      "time_sec": 882,
+      "visible_birds": 154
+    },
+    {
+      "time_sec": 883,
+      "visible_birds": 160
+    },
+    {
+      "time_sec": 884,
+      "visible_birds": 156
+    },
+    {
+      "time_sec": 885,
+      "visible_birds": 160
+    },
+    {
+      "time_sec": 886,
+      "visible_birds": 148
+    },
+    {
+      "time_sec": 887,
+      "visible_birds": 167
+    },
+    {
+      "time_sec": 888,
+      "visible_birds": 144
+    },
+    {
+      "time_sec": 889,
+      "visible_birds": 155
+    },
+    {
+      "time_sec": 890,
+      "visible_birds": 135
+    },
+    {
+      "time_sec": 891,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 892,
+      "visible_birds": 115
+    },
+    {
+      "time_sec": 893,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 894,
+      "visible_birds": 140
+    },
+    {
+      "time_sec": 895,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 896,
+      "visible_birds": 144
+    },
+    {
+      "time_sec": 897,
+      "visible_birds": 122
+    },
+    {
+      "time_sec": 898,
+      "visible_birds": 121
+    },
+    {
+      "time_sec": 899,
+      "visible_birds": 130
+    },
+    {
+      "time_sec": 900,
+      "visible_birds": 99
+    },
+    {
+      "time_sec": 901,
+      "visible_birds": 94
+    },
+    {
+      "time_sec": 902,
+      "visible_birds": 133
+    },
+    {
+      "time_sec": 903,
+      "visible_birds": 119
+    },
+    {
+      "time_sec": 904,
+      "visible_birds": 129
+    },
+    {
+      "time_sec": 905,
+      "visible_birds": 124
+    },
+    {
+      "time_sec": 906,
+      "visible_birds": 106
+    },
+    {
+      "time_sec": 907,
+      "visible_birds": 126
+    },
+    {
+      "time_sec": 908,
+      "visible_birds": 139
+    },
+    {
+      "time_sec": 909,
+      "visible_birds": 141
+    },
+    {
+      "time_sec": 910,
+      "visible_birds": 123
+    },
+    {
+      "time_sec": 911,
+      "visible_birds": 106
+    },
+    {
+      "time_sec": 912,
+      "visible_birds": 92
+    },
+    {
+      "time_sec": 913,
+      "visible_birds": 107
+    },
+    {
+      "time_sec": 914,
+      "visible_birds": 144
+    },
+    {
+      "time_sec": 915,
+      "visible_birds": 135
+    },
+    {
+      "time_sec": 916,
+      "visible_birds": 143
+    },
+    {
+      "time_sec": 917,
+      "visible_birds": 169
+    },
+    {
+      "time_sec": 918,
+      "visible_birds": 183
+    },
+    {
+      "time_sec": 919,
+      "visible_birds": 196
+    },
+    {
+      "time_sec": 920,
+      "visible_birds": 172
+    },
+    {
+      "time_sec": 921,
+      "visible_birds": 167
+    },
+    {
+      "time_sec": 922,
+      "visible_birds": 192
+    },
+    {
+      "time_sec": 923,
+      "visible_birds": 198
+    },
+    {
+      "time_sec": 924,
+      "visible_birds": 198
+    }
+  ],
+  "annotated_video": "outputs/annotated_video.mp4"
+}
